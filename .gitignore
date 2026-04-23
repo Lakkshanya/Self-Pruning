@@ -1,0 +1,10 @@
+# Ignore dataset
+data/
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Plots (optional)
+*.png
